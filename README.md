@@ -8,6 +8,10 @@
 https://github.com/user-attachments/assets/7e01247d-8742-445e-a2a4-efc0f498809f
 
 
+Uploading The BEV of Safety-Critical Scenario 1.mp4…
+
+
+
 
 The code will be released soon.
 
